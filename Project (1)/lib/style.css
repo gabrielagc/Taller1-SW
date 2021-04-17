@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+.info {
+  background-color: #DDEFD4;
+  width: 50%;
+  float: left;
+  padding: 70px;
+  border: 1px solid black;
+}
+
+
+.list {
+  background-color: #DDEFD4;
+  width: 50%;
+  float: left;
+  padding: 22px;
+  border: 1px solid black;
+}
+
